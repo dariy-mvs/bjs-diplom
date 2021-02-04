@@ -305,7 +305,7 @@ class ApiConnector {
   /**
    * Отправляет запрос на получение курсов валют (последние 100 записей)
    *
-   * @static
+   * * @static
    * @param {Function} callback-функция с ошибкой `error` в качестве первого параметра
    * (null если ошибки нет) и телом `data` в качестве второго параметра
    * @memberof ApiConnector
